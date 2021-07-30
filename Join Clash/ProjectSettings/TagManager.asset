@@ -3,7 +3,14 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Engel
+  - Clone_person
+  - finishObject
+  - clonecluster1
+  - clonecluster2
+  - particle
+  - deathparticle
   layers:
   - Default
   - TransparentFX
